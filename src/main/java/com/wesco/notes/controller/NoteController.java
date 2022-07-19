@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.wesco.notes.exception.ResourceNotFoundException;
-import com.wesco.notes.model.Note;
+import com.wesco.model.Note;
 import com.wesco.notes.service.NoteService;
+
 
 
 @RestController
