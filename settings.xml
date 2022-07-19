@@ -15,9 +15,9 @@
         <id>github</id>
 	     <name>GitHub wesco-chandanabuduru Apache Maven Packages</name>
 	     <url>https://maven.pkg.github.com/wesco-chandanabuduru/wdp-common-entities</url>
-           <!--   <snapshots>
+             <snapshots>
               <enabled>true</enabled>
-            </snapshots> -->
+            </snapshots>
         </repository>
       </repositories>
     </profile>
